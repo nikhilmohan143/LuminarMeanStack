@@ -1,0 +1,44 @@
+
+body{
+    background-color: black;
+}
+h1
+{
+    color:red;
+    text-align: center;
+    text-decoration: underline;
+    
+}
+h2{
+    text-align:center;
+    text-decoration: underline;
+}
+div{
+    color:white;
+    float:left;
+    width:30%;
+    height:400px;
+}
+
+.first
+{
+    color:blue;
+}
+.second
+{
+    color:whitesmoke;
+}
+.third{
+  color:green;  
+}
+img
+{
+    margin-left:px ;
+    float:left;  
+    width:100%;
+    height:100%;
+}
+p{
+    text-align:center;
+    color:aquamarine;
+}

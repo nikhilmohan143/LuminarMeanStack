@@ -1,0 +1,17 @@
+
+    body{
+        background-image: url('images/bg2.jpg');");
+    }
+
+h1
+{   
+    color:blue;
+    text-align:center;
+}
+div
+{
+    
+    text-align: center;
+    justify-content:center;
+    align-items: center;
+}

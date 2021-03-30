@@ -1,0 +1,50 @@
+html{
+   /* Scroll-behaviour: smooth;*/
+}
+body{
+   margin: 0px;
+   padding: 0px;
+  }
+.row
+{
+    padding-top: 10px;
+     background-color:purple;
+     text-align: center;
+     align-items: center; 
+     padding-left:60px;
+     padding-bottom: 15px;
+}
+a
+{
+    color:white;
+    text-align: center;
+    font-size: 13px;
+    text-decoration-line: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   
+}
+div
+{
+    
+}
+#first
+{
+  text-align:left;
+  align-items: left; 
+}
+}
+#second
+{
+    
+  text-align: right;
+  align-items: right; 
+}
+}
+
+/*--------------------------navigation bar-----------------------------------------------*/
+#navbar .nav
+{
+  text-align: end;
+  align-items: flex-end;
+}
+
